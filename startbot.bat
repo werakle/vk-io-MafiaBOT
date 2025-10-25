@@ -1,0 +1,2 @@
+node mafia.js
+pause
